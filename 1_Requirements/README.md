@@ -1,10 +1,10 @@
 #MiniProject
-    individual
-    C Programming
-    To apply the learning
+    -individual
+    -C Programming
+    -To apply the learning
     
 #What it must contain
-    Folder structure must be as per https://github.com/stepin654321/MiniProject_Template/tree/master/MiniProject_C
+     Folder structure must be as per https://github.com/stepin654321/MiniProject_Template/tree/master/MiniProject_C
      100 lines of code , Excluding printf and scanf
      Functions
      Pointers
