@@ -1,2 +1,2 @@
-# M1_March2022
-Vismay Mini Project 
+# Vismay Mini Project
+Tic Tac Toe game
